@@ -35,5 +35,5 @@ To run the letsdoo web app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/SrivatsaMG/letsdoo
 ```
