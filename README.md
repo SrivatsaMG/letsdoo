@@ -1,6 +1,6 @@
-# Simple Todo List Web App with Tailwind CSS and JavaScript
+# Simple letsdoo Web App with Tailwind CSS and JavaScript
 
-This repository contains a simple and elegant Todo List web app built using Tailwind CSS and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
+This repository contains a simple and elegant letsdoo web app built using Tailwind CSS and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
 
 ## Features
 
@@ -14,7 +14,7 @@ This repository contains a simple and elegant Todo List web app built using Tail
 
 ## Live Demo
 
-You can check out the live demo of the Todo List web app [here](https://letsdoo.netlify.app/)).
+You can check out the live demo of the letsdoo web app [here](https://letsdoo.netlify.app/)).
 
 ## Screenshots
 
@@ -30,7 +30,7 @@ You can check out the live demo of the Todo List web app [here](https://letsdoo.
 
 ## Getting Started
 
-To run the Todo List web app on your local machine, follow these steps:
+To run the letsdoo web app on your local machine, follow these steps:
 
 1. Clone the repository:
 
